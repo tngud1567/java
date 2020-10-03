@@ -8,9 +8,9 @@ import java.util.Date;
 //암호(password),생년월일,가입일,마일리지 등..
 public class Member {
 	
-	private static final int DEF_AGE = 18;
-	private static final double DEF_MILE = 1000.0;
-	private static int order =0;
+	public static final int DEF_AGE = 18;
+	public static final double DEF_MILE = 1000.0;
+	public static int order =0;
 	
 	private int no;
 	private String name;
