@@ -10,7 +10,7 @@ public class MemberMain {
  
 	public static void main(String[] args) {
 		Member mb = new Member();
-		System.out.println();
+		
 	}
 
 }
